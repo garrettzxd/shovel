@@ -1,0 +1,29 @@
+{
+  "name": "shovel",
+  "version": "0.0.1",
+  "description": "common method for js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-airbnb": "^5.0.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettzxd/shovel.git"
+  },
+  "keywords": [
+    "shovel"
+  ],
+  "author": "garrettzxd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrettzxd/shovel/issues"
+  },
+  "homepage": "https://github.com/garrettzxd/shovel#readme"
+}
